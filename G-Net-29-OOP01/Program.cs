@@ -1,4 +1,4 @@
-﻿#region Part 01 - Theory (Short Answers in English)
+﻿#region Part 01
 /*
 Q1) Class vs Struct:
 - class: reference type, copied by reference, can be null, supports inheritance.
