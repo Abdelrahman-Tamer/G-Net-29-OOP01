@@ -20,7 +20,7 @@ Q4) What is a class library? Why use it?
 */
 #endregion
 
-#region Part 02 - Movie Ticket Booking System
+#region Part 02
 enum TicketType
 {
     Standard = 0,
